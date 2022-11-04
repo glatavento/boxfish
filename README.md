@@ -1,6 +1,6 @@
 # boxfish
 
-> A theme for Oh ~~My Fish~~[Fisher](https://github.com/jorgebucaran/fisher).
+> A theme for ~~Oh My Fish~~ [Fisher](https://github.com/jorgebucaran/fisher).
 
 [![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)
 [![Fish Shell Version](https://img.shields.io/badge/fish-v3.5-007EC7.svg?style=flat-square)](https://fishshell.com)
